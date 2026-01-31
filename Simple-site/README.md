@@ -1,6 +1,6 @@
 # Simple site
 
-Qui il link: (roadmap.sh)[https://roadmap.sh/projects/basic-html-website]
+Qui il link: [roadmap.sh](https://roadmap.sh/projects/basic-html-website)
 
 ### 📋 Brief
 
