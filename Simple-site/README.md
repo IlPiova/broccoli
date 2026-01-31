@@ -1,5 +1,7 @@
 # Simple site
 
+Qui il link: (roadmap.sh)[https://roadmap.sh/projects/basic-html-website]
+
 ### 📋 Brief
 
 The goal of this project is to teach you how to structure a website using HTML i.e. different sections of a website like header, footer, navigation, main content, sidebars etc. Do not style the website, only focus on the structure. Styling will be done in separate projects.
@@ -24,10 +26,3 @@ You are not required to style the website; you are only required to create the s
 
 - **HTML5**: per la struttura. È la prima volta che uso html semantico
 - **CSS3**: solo inline dato che la richiesta insiste sul non doverlo usare per forza. Flexbox per organizzare il layout
-
-### 💡 Cosa ho imparato
-
-- How to center a div effectively (the eternal struggle).
-- Implementing responsive design without frameworks.
-
-[← Back to Main Menu](../README.md)
